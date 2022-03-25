@@ -1,1 +1,1 @@
-# JuliaByExample
+# Basics of Coding Julia
