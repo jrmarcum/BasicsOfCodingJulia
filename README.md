@@ -4,7 +4,7 @@ What this text is and what it is not: This text is intended to introduce the rea
 
 The programs are intended to be run in the terminal as that is common to most operating systems. Linux and Mac come preinstalled with a terminal. Windows may or may not have it pre-installed. "Windows Terminal" can be installed from the Microsoft store. Just do a search for it and install it.
 ## Installation and Setup of Julia
-To setup Julia for use, navigate to the Julia website and locate an appropriate installer for your operating system. Install and follow the directions on how to perform further settings for use. If the language has been installed properly you will be able to type the following command in the terminal command line and receive the response shown:
+To setup Julia for use, navigate to the [Julia](https://julialang.org/downloads/) website and locate an appropriate installer for your operating system. Install and follow the directions on how to perform further settings for use. If the language has been installed properly you will be able to type the following command in the terminal command line and receive the response shown:
 ```
 $ julia --version
 julia version 1.10.5
