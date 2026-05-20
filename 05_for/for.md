@@ -1,0 +1,18 @@
+Julia uses `while`, `for in`, and `break`/`continue` for all looping patterns.
+
+___
+
+##### Run Command:
+`julia for.jl`
+
+##### Results:
+`1`
+`2`
+`3`
+`7`
+`8`
+`9`
+`loop`
+`1`
+`3`
+`5`
