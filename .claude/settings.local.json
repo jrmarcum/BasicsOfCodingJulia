@@ -1,7 +1,6 @@
 {
   "permissions": {
     "allow": [
-      "PowerShell(cd \"d:\\\\Programs\\\\_ProgramExamples\\\\Example_Programs\\\\GithubProjects\\\\BasicsOfCodingJulia\"; $env:JULIA_NUM_THREADS=4; julia \"27_goroutines\\\\goroutines.jl\")"
     ]
   }
 }
